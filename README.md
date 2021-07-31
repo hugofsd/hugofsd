@@ -1,13 +1,13 @@
 
 Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25">
 
- <img align="right" width="20%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+
 
 
 - 🔭 Working with Angular/Spring/Ionic/Flutter ...
 - 🌱 Studying Computer Science ...
 
-  
+   <img align="right" width="45%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
  <div>
   
   <a href="https://github.com/hugofsd">
