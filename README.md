@@ -1,6 +1,8 @@
 
 Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25">
 
+ <img align="right" width="20%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+
 
 - 🔭 Working with Angular/Spring/Ionic/Flutter ...
 - 🌱 Studying Computer Science ...
@@ -11,7 +13,7 @@ Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets
   <a href="https://github.com/hugofsd">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hugofsd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugofsd&layout=compact&langs_count=7&theme=dracula"/>
-      <img align="right" width="20%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+     
    
 </div>
   
