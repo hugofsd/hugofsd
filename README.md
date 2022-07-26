@@ -17,7 +17,7 @@ Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets
    
 </div>
   
-  <a href="https://www.instagram.com/dev.hf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href="https://linkedin.com/in/hugo-frança-9343251a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img src="https://komarev.com/ghpvc/?username=hugofsd&color=green" alt="hugofsd" /> 
     <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>Thanks!</h2>
