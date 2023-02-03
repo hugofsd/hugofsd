@@ -1,10 +1,6 @@
 
 Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25">
 
-
-
-
-- 🔭 Working with Angular/Spring/Ionic/Java ...
 - 🔭 Working with Angular/Spring/Ionic/Java/Wordpress ...
 - 🌱 Studying Computer Science ...
   
