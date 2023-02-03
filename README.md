@@ -17,7 +17,9 @@ Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets
    <img align="center"  alt="icone11" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
 </div>
 </br> 
-[![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lrdns/)
+
+[![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofas/)
+
 </br>
   <img src="https://komarev.com/ghpvc/?username=hugofsd&color=green" alt="hugofsd" /> 
     <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>Thanks!</h2>
