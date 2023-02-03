@@ -11,10 +11,6 @@ Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugofsd&show_icons=true&theme=tokyonight"/>
 </div>
-
-</br> 
-
-  [![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofranca/)
   
 </br> 
  <div>
