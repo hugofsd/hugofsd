@@ -12,12 +12,11 @@ Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugofsd&show_icons=true&theme=tokyonight"/>
 </div>
 
-</br>
-
-### :heart: Let´s get connected:   
+</br> 
 
   [![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofranca/)
   
+</br> 
  <div>
    <img align="center"  alt="icone1" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center"  alt="icone2" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
