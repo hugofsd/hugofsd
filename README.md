@@ -14,7 +14,7 @@ Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets
 </div>
 </br> 
 
-[![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofsd/)
+[![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofranca/)
 
 </br>
   <img src="https://komarev.com/ghpvc/?username=hugofsd&color=green" alt="hugofsd" /> 
