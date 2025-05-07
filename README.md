@@ -5,10 +5,11 @@
 
 <div align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,angular,java,spring,mongodb,postgres,nodejs,wordpress,github,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,angular,java,spring,mongodb,postgres,nodejs,wordpress,github,postman" />
   </a>
   <br /> 
 </div>
+</br>
 
 [![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofranca/)
 

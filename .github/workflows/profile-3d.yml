@@ -20,6 +20,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git commit -m "generated" || echo "No changes to commit"
+          git push
