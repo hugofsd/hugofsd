@@ -1,22 +1,17 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-Hi! I'm Hugo <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25">
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugofsd&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugofsd&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
 
-- 🔭 Working with Angular/Spring/Ionic/Java/Wordpress ...
-- 🌱 Studying Computer Science ...
-  
-</br> 
- <div>
-   <img align="center"  alt="icone1" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align="center"  alt="icone2" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img align="center"  alt="icone4" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-   <img align="center"  alt="icone6" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   <img align="center"  alt="icone11" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+<div align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,angular,java,spring,sql,mongodb,postgres,nodejs,ionic,wordpress,docker,figma,github,linux,postman" />
+  </a>
+  <br /> 
 </div>
-</br> 
 
-[![Linkdin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugofranca/)
+##
 
-</br>
-  <img src="https://komarev.com/ghpvc/?username=hugofsd&color=green" alt="hugofsd" /> 
-    <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>Thanks!</h2>
-
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=hugofsd&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
